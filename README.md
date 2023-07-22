@@ -13,12 +13,14 @@ All you need to run this project is -
 <br>(4) Open your terminal, cd to the directory with the files, and run myguitar.py
 
 The convention of the strings is as follows -
-<br>e(low) - played using '1' or 'a'
-<br>a - played using '2' or 's'
-<br>d - played using '3' or 'd'
-<br>g - played using '4' or 'f'
-<br>b - played using '5' or 'g'
-<br>e(high) - played using '6' or 'h'
+<br>e(low) - played using '1' or 'A'
+<br>a - played using '2' or 'S'
+<br>d - played using '3' or 'D'
+<br>g - played using '4' or 'F'
+<br>b - played using '5' or 'G'
+<br>e(high) - played using '6' or 'H'
+
+The strings are basically playable using keyboard keys from 1 to 6, or from characters 'A' to 'H', you could also simply left click on the strings using your mouse.
 
 <br>https://github.com/surajiyer26/Pygame-Guitar/assets/114157491/351f1e39-b446-427e-8bb0-4182f3088e99
 <br>
