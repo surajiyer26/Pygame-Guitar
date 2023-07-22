@@ -12,6 +12,14 @@ All you need to run this project is -
 <br>(3) Make sure all the files provided here are in the same directory
 <br>(4) Open your terminal, cd to the directory with the files, and run myguitar.py
 
+The convention of the strings is as follows -
+<br>e(low) - played using '1' or 'a'
+<br>a - played using '2' or 's'
+<br>d - played using '3' or 'd'
+<br>g - played using '4' or 'f'
+<br>b - played using '5' or 'g'
+<br>e(high) - played using '6' or 'h'
+
 <br>https://github.com/surajiyer26/Pygame-Guitar/assets/114157491/351f1e39-b446-427e-8bb0-4182f3088e99
 <br>
 You can see an instance of the project in action in above video
